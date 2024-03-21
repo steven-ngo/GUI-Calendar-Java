@@ -8,8 +8,8 @@
 
 
 ## Launch the App
-Navigate to `src`
-Run 
+Navigate to `src`.
+Run: 
 ```
 javac SimpleCalendar.java
 java SimpleCalendar
